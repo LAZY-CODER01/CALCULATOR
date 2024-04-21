@@ -17,9 +17,10 @@ body{
     
 }
 .key{
-    font-size:18px;
-      font-weight: 600;
-     height: 6em;
+    font-size:25px;
+      font-weight: 1600;
+     height: 4em;
+
      width: 6.5vw;
      color: aliceblue;
      background-color: black;
@@ -45,4 +46,11 @@ body{
 }
 .backspace{
   width: 13vw;
+}
+
+.backspace{
+  background-color: #ff5e5e;
+}
+.divide,.add,.subtract,.multiply,.equal{
+  background-color: orange;
 }
